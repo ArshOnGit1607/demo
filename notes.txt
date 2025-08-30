@@ -1,0 +1,13 @@
+Using normal commercial speakers with clear and crisp audio with converting text to speach using open source Ai models. 
+
+Using cameras and sensors all over the classroom to sense if anyone is yawning , feeling sleepy, unwell etc etc and then we can use the data to train the robot for helping those students with boredom, asking them questions,cracking jokes,solving their doubts.
+
+For quizes we can use databases of questions from various websites like byju's,topper, selfstudy.com to randomize questions about specific topics which are being taught in the class and making it fun interaction.
+
+For proper recognition of children's voices we can heavily train robots using large amounts of data and even recording every students voice just like we train our siri or google assistant.
+
+For privacy reasons all data regarding students videos,voices and interactions.The data will be end to end encrypted.
+
+What we're trying to create is a co-ed environment with teachers and robots teaching , interacting and solving doubts together ensuring the children learn without even getting bored.
+
+We can even setup some sessions only with the robot itself , in which students get to interact with our ai model.
